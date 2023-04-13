@@ -6,6 +6,10 @@
             "981930674\\LdapNas\\": "src/"
         }
     },
+	"support": {
+		"issues": "https://github.com/wgy981930674/ldap-nas.git/issues",
+		"source": "https://github.com/wgy981930674/ldap-nas.git"
+	},	
     "authors": [
         {
             "name": "wgy981930674",
