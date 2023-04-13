@@ -1,0 +1,16 @@
+{
+    "name": "981930674/ldap-nas",
+    "description": "ldap nas",
+    "autoload": {
+        "psr-4": {
+            "981930674\\LdapNas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wgy981930674",
+            "email": "981930674@qq.com"
+        }
+    ],
+    "require": {}
+}
